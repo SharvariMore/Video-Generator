@@ -1,0 +1,1 @@
+Developed a video streaming app using React Native, Expo, AWS S3 for media storage, Supabase for backend, and React Navigation for seamless UI flow, supporting real-time video upload, playback, authentication, and profile management.
